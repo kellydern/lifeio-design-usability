@@ -5,7 +5,7 @@
 
 # Life.io Usability Testing Documentation
 
-The repository houses the design files for the Life.io usability tests. We run weekly usability tests to review our assumptions. These tests inform our design process and help us iterate on designs.
+The repository houses the design files for the Life.io usability tests. We run weekly usability tests to review our assumptions. These tests inform our product development process and help us iterate on designs.
 
 ## Current usability design files:
 - [x] Cards - Containers
